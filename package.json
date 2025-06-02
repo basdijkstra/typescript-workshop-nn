@@ -1,0 +1,14 @@
+{
+  "name": "typescript-workshop-nn",
+  "version": "1.0.0",
+  "description": "Workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Bas",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.19.4"
+  }
+}
